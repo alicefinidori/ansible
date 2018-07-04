@@ -3,7 +3,7 @@
 yumrepo_fqdn: deployserver-alice
 yumrepo_path: /opt/yumrepo
 
-cci_username: alicefinidori
-cci_token:071faf4526710f7dbe4e40d249d8913ab77157f2 
+cci_username: linuxdojo-training
+cci_token: 92dc1185d521273ca749a9416531b5f856e41399
 cci_project: pingtest
 cci_branch: master
